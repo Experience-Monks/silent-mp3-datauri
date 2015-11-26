@@ -1,0 +1,41 @@
+{
+  "name": "silent-mp3-datauri",
+  "version": "1.0.0",
+  "description": "a dummy 15ms silent MP3 as datauri",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "datauri": "^0.8.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "dummy",
+    "mp3",
+    "file",
+    "datauri",
+    "data",
+    "uri",
+    "audio",
+    "play",
+    "can",
+    "played",
+    "playing",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/silent-mp3-datauri.git"
+  },
+  "homepage": "https://github.com/Jam3/silent-mp3-datauri",
+  "bugs": {
+    "url": "https://github.com/Jam3/silent-mp3-datauri/issues"
+  }
+}
